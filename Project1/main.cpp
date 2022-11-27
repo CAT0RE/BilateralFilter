@@ -1,3 +1,6 @@
+//Author @Zixian Wang(Catore)
+//Shanghai JiaoTong University
+
 #include <iostream>
 #include <opencv2/opencv.hpp>
 #include <cmath>
